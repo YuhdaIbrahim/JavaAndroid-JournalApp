@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="write_your_journey">Your Journey Start Here..</string>
+    <string name="gratefull">Write yours Life here</string>
+    <string name="get_started">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="sign_up">Login</string>
+    <string name="or_text">or</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="post_title">Title</string>
+    <string name="your_tough">Your toughs...</string>
+    <string name="save_post">SAVE</string>
+</resources>
